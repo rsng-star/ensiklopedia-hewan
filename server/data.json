@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "paus orca",
+    "group": "Mamalia",
+    "description": "Orcas, or killer whales, are the largest of the dolphins and one of the world's most powerful predators. They're immediately recognizable by their distinctive black-and-white coloring. Smart and social, orcas make a wide variety of communicative sounds, and each pod has distinctive noises that its members will recognize even at a distance. They use echolocation to communicate and hunt, making sounds that travel underwater until they encounter objects, then bounce back, revealing their location, size, and shape.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Killer_Whale_chasing_Chinook.jpg"
+  },
+  {
+    "id": 2,
+    "name": "penyu",
+    "group": "Reptil",
+    "description": "Penyu memiliki sepasang tungkai depan yang berupa kaki pendayung yang memberinya ketangkasan berenang di dalam air. Pada umumnya, kaki depan hanya memiliki satu cakar. Cakar kedua biasanya tidak ada atau berukuran sangat kecil. Spesies jantan dapat dibedakan dari betina dengan melihat ukuran cakar kaki depan dan ekor yang relatif panjang.[4] Walaupun seumur hidupnya berkelana di dalam air, penyu tetap harus naik ke permukaan air untuk mengambil napas. Hal itu disebabkan sistem pernapasan penyu yang menggunakan paru-paru. Untuk memudahkannya mengambil udara dari permukaan air, penyu memiliki lubang hidung yang dekat dengan permukaan atas tengkorak.[4] Tidak diketahui seberapa jauh penyu bisa berenang tanpa istirahat. Beberapa penyu telah menempuh jarak 3.000 km dalam waktu sekitar 3 bulan.[5]",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/GreenSeaTurtle-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "hawk",
+    "group": "Burung",
+    "description": "ini bruung asli amekika utara",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Northern_Goshawk_ad_M2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ular Sanca",
+    "group": "Reptil",
+    "description": "Sanca, Sawa atau Piton adalah sebutan umum untuk semua jenis ular pembelit yang diklasifikasikan sebagai familia Pythonidae. Sanca tersebar luas di daerah beriklim panas dan tropis Afrika, Asia, dan Australia. Salah satu spesies sanca, yaitu sanca kembang (Malayopython reticulatus) merupakan ular terpanjang di dunia.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Python_molurus_molurus_2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Belalang Sentadu",
+    "group": "Serangga",
+    "description": "Belalang sentadu atau belalang sembah adalah serangga karnivora yang termasuk ke dalam ordo Mantodea.[1] Dalam bahasa Inggris, serangga ini biasa disebut praying mantis karena sikapnya yang sering kali kelihatan seperti sedang berdoa. Kata mantis berasal dari bahasa Yunani \"Mantes\" yang berarti \"nabi\" atau \"peramal nasib\". Banyak sebutan dalam bahasa lokal, seperti congcorang (bahasa Sunda/bahasa Betawi), walang kadung, walang k\u00e8k\u00e8k, walang pacul (bahasa Jawa), dan mentadak (bahasa Melayu).",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/European_praying_mantis_%28Mantis_religiosa%29_green_female_Dobruja.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Salamander",
+    "group": "Amfibi",
+    "description": "Salamander atau semandar adalah nama umum bagi sekitar 550 spesies amfibi.[1] Mereka secara umum dicirikan oleh penampilan mirip kadal, dengan tubuh ramping, hidung pendek, dan ekor yang panjang. Salamander beserta kerabatnya yang telah punah dimasukkan ke dalam klad Caudata, sedangkan spesiesnya yang masih ada digolongkan ke dalam ordo Urodela.[2] Sebagian besar salamander memiliki empat jari pada kaki depan mereka dan lima jari pada kaki belakang mereka. Kulit mereka yang lembap menjadikan mereka lebih suka tinggal di habitat di atau dekat air, atau dalam tempat yang terlindung (misalnya tanah lembap), sering kali di lahan basah. Beberapa spesies Salamander sepenuhnya tinggal di air sepanjang hidup mereka, sebagian tinggal di air untuk sementara, dan sebagian lagi tinggal di darat ketika dewasa. Mereka makhluk vertebrata yang unik karena mereka dapat menumbuhkan kembali bagian tubuh yang hilang.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/SpottedSalamander.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ikan Mandarin",
+    "group": "Ikan",
+    "description": "Ikan mandarin (Synchiropus splendidus) adalah ikan kecil berwarna cerah yang termasuk dalam familia dragonet, yang terkenal dalam bisnis akuarium air laut. Ikan mandarin berasal dari Samudra Pasifik, berkisar dari Kepulauan Ryukyu hingga Australia.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Synchiropus_splendidus_2_Luc_Viatour.jpg"
+  }
+]
