@@ -1,12 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "paus orca",
-    "group": "Mamalia",
-    "description": "Orcas, or killer whales, are the largest of the dolphins and one of the world's most powerful predators. They're immediately recognizable by their distinctive black-and-white coloring. Smart and social, orcas make a wide variety of communicative sounds, and each pod has distinctive noises that its members will recognize even at a distance. They use echolocation to communicate and hunt, making sounds that travel underwater until they encounter objects, then bounce back, revealing their location, size, and shape.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Killer_Whale_chasing_Chinook.jpg"
-  },
-  {
     "id": 2,
     "name": "penyu",
     "group": "Reptil",
@@ -47,5 +40,19 @@
     "group": "Ikan",
     "description": "Ikan mandarin (Synchiropus splendidus) adalah ikan kecil berwarna cerah yang termasuk dalam familia dragonet, yang terkenal dalam bisnis akuarium air laut. Ikan mandarin berasal dari Samudra Pasifik, berkisar dari Kepulauan Ryukyu hingga Australia.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Synchiropus_splendidus_2_Luc_Viatour.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Kepiting Laut",
+    "group": "Ikan",
+    "description": "Kepiting bulan atau ketam bulan adalah segolongan kepiting anggota famili Matutidae. Ketam atau kepiting berukuran kecil dengan warna-warni cerah ini merupakan kepiting perenang, tetapi acap kali tinggal membenamkan diri di pasir dasar laut tepi pantai.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ashtoret_lunaris.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Paus Bungkuk",
+    "group": "Mamalia",
+    "description": "Paus bungkuk (Megaptera novaeangliae) adalah salah satu spesies paus balin rorkual terbesar, panjang paus bungkuk dewasa sebesar 12\u201316 meter dan memiliki berat 36.000 kilogram. Paus bungkuk memiliki bentuk tubuh yang istimewa, dengan sirip dada panjang dan kepala menonjol. Hewan ini adalah hewan akrobatik, sering muncul di permukaan air. Jantan mengeluarkan lagu yang terdengar selama 10 sampai 20 menit dan diulang untuk beberapa jam pada satu waktu. Peran lagu ini belum diketahui, walaupun sepertinya memiliki peran dalam berpasangan.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Humpback_stellwagen_edit.jpg"
   }
 ]

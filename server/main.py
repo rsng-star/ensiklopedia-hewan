@@ -6,7 +6,7 @@ import json
 
 app = FastAPI()
 
-DATA_FILE = Path("data.json")  # Sesuai struktur foldermu
+DATA_FILE = Path("data.json") 
 
 class Animal(BaseModel):
     id: int
